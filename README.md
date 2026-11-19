@@ -177,7 +177,6 @@ Na tela de Login há **botões de preenchimento rápido em 1 toque** (*"Preenche
 
 ## 9. Fluxo Principal e Evidências de Funcionamento (Capturas de Tela)
 
-> O roteiro detalhado para captura/atualização dos prints no emulador encontra-se em [docs/screenshots/ROTEIRO.md](docs/screenshots/ROTEIRO.md).
 
 ### 9.1. Contextualização, Onboarding e Radar Inicial
 1. Ao abrir o aplicativo, a **SplashScreen** exibe a identidade visual e redireciona para o **Onboarding** de 3 páginas (com opção *"Não mostrar novamente"*).
